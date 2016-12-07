@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RuntimePermissionsSample</string>
+    <string name="edit_input_hint">Please input phone number</string>
+    <string name="btn_text_call">Make a phone call</string>
+    <string name="btn_text_call_log">Show Last Call Log</string>
+    <string name="fragment_scope_tip">This is Simple Fragment Scope</string>
+    <string name="dialog_msg_call_log">I need the permission to get call log!</string>
+    <string name="dialog_msg_call">I need the permission to make a phone call!</string>
+    <string name="go_app_setting">Go App Setting</string>
+</resources>
